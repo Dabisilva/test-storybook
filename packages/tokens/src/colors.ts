@@ -14,5 +14,6 @@ export const colors = {
   green300: '#00B37E',
   green500: '#00875F',
   green700: '#015F43',
+  green735: '#015F80',
   green900: '#00291D',
 }
