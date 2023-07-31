@@ -1,0 +1,4 @@
+{
+  "extends": "@dabi-ui/ts-config/react.json",
+  "include": ["src"],
+}

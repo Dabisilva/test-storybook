@@ -1,0 +1,3 @@
+{
+    "extends": "@dabi-ui/eslint-config"
+}
