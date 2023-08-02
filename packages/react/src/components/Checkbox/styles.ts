@@ -1,5 +1,5 @@
 import * as Checkbox from '@radix-ui/react-checkbox'
-import { keyframes, styled } from '../../../styles'
+import { keyframes, styled } from '../../styles'
 
 export const CheckboxContainer = styled(Checkbox.Root, {
   all: 'unset',
@@ -19,7 +19,7 @@ export const CheckboxContainer = styled(Checkbox.Root, {
 
   border: '2px solid $gray600',
 
-  '&:focus': {
+  '&:focus, &[data-state="checked"]': {
     border: '2px solid $green300',
   },
 

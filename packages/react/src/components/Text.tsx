@@ -1,5 +1,5 @@
 import { fontSizes } from '@dabi-ui/tokens'
-import { styled } from '../../styles'
+import { styled } from '../styles'
 import { ComponentProps, ElementType } from 'react'
 
 export const Text = styled('p', {
