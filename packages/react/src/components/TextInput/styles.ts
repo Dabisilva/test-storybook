@@ -59,6 +59,6 @@ export const Input = styled('input', {
     cursor: 'not-allowed',
   },
   '&::placeholder': {
-    color: '$gray400',
+    color: '$gray500',
   },
 })
